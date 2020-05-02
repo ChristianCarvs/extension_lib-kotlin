@@ -1,0 +1,3 @@
+rootProject.name='MangaReadMe'
+include ':app'
+include ':library-extension'
